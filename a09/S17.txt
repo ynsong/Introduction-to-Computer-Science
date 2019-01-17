@@ -1,0 +1,15 @@
+Dave Brown
+Cs115
+Math135
+Chem100
+
+Mary Sue
+cs115
+CHem100
+math200
+
+Alice Dean
+Cs115
+Math135
+Chem100
+math200

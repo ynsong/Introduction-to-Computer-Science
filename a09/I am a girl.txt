@@ -1,0 +1,5 @@
+III       AA   M   M       AA        GGG   III  RRRR   L     
+ I       A  A  MM MM      A  A      G       I   R   R  L     
+ I       AAAA  M M M      AAAA      G  GG   I   RRRR   L     
+ I       A  A  M   M      A  A      G   G   I   R R    L     
+III      A  A  M   M      A  A       GGG   III  R  RR  LLLL  

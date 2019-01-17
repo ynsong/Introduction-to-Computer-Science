@@ -1,0 +1,5 @@
+N   N  III   CCC  EEEE      W     W   OOO   RRRR   K  K      DDD   EEEE   AA   RRRR   
+NN  N   I   C     E         W     W  O   O  R   R  K K       D  D  E     A  A  R   R  
+N N N   I   C     EEE       W  W  W  O   O  RRRR   KK        D  D  EEE   AAAA  RRRR   
+N  NN   I   C     E          W W W   O   O  R R    K K       D  D  E     A  A  R R    
+N   N  III   CCC  EEEE        W W     OOO   R  RR  K  K      DDD   EEEE  A  A  R  RR  

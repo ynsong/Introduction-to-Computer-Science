@@ -1,0 +1,155 @@
+ AA   @
+A  A  @
+AAAA  @
+A  A  @
+A  A  @
+
+BBBB   @
+B   B  @
+BBBB   @
+B   B  @
+BBBB   @
+
+ CCC  @
+C     @
+C     @
+C     @
+ CCC  @
+
+DDD   @
+D  D  @
+D  D  @
+D  D  @
+DDD   @
+
+EEEE  @
+E     @
+EEE   @
+E     @
+EEEE  @
+
+FFFF  @
+F     @
+FFF   @
+F     @
+F     @
+
+ GGG   @
+G      @
+G  GG  @
+G   G  @
+ GGG   @
+
+H  H  @
+H  H  @
+HHHH  @
+H  H  @
+H  H  @
+
+III  @
+ I   @
+ I   @
+ I   @
+III  @
+
+    J  @
+    J  @
+    J  @
+J   J  @
+ JJJ   @
+
+K  K  @
+K K   @
+KK    @
+K K   @
+K  K  @
+
+L     @
+L     @
+L     @
+L     @
+LLLL  @
+
+M   M  @
+MM MM  @
+M M M  @
+M   M  @
+M   M  @
+
+N   N  @
+NN  N  @
+N N N  @
+N  NN  @
+N   N  @
+
+ OOO   @
+O   O  @
+O   O  @
+O   O  @
+ OOO   @
+
+PPPP   @
+P   P  @
+PPPP   @
+P      @
+P      @
+
+ QQQ    @
+Q   Q   @
+Q   Q   @
+Q  QQ   @
+ QQQQQ  @
+
+RRRR   @
+R   R  @
+RRRR   @
+R R    @
+R  RR  @
+
+ SSS   @
+S      @
+ SSS   @
+    S  @
+SSSS   @
+
+TTTTTT  @
+  TT    @
+  TT    @
+  TT    @
+  TT    @
+
+U   U  @
+U   U  @
+U   U  @
+U   U  @
+ UUU   @
+
+V     V  @
+V     V  @
+ V   V   @
+  V V    @
+   V     @
+
+W     W  @
+W     W  @
+W  W  W  @
+ W W W   @
+  W W    @
+
+X   X  @
+ X X   @
+  X    @
+ X X   @
+X   X  @
+
+Y   Y  @
+ Y Y   @
+  Y    @
+  Y    @
+  Y    @
+
+ZZZZZ  @
+   Z   @
+  Z    @
+ Z     @
+ZZZZZ  @
